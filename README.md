@@ -1,6 +1,8 @@
 # QR CODE GENERATOR👾
 A CLI-based **Node.js** app that generated QR code based on the URL you input
 
+# Check out the [VIDEO LINK](https://youtu.be/y90q_7czjS0) 📹
+
 # To use on your device💻
 Simply clone this repo on your device and in the terminal at the location of this project,
 1. Run ```npm install``` in order to install all the dependencies in the first go 
